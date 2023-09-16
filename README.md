@@ -1,6 +1,4 @@
 # Interactive Python Utility
-![Running GIF](https://camo.githubusercontent.com/1140a4f2ffe1d7d5432df78421909e56c97909423568e609983ec3d4fbcb0b22/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d4f72626974726f6e2673697a653d343026636f6c6f723d253233373941353030266865696768743d3637266475726174696f6e3d333030302663656e7465723d74727565266c696e65733d254630253946253835254236254630253946253836253831254630253946253835254234254630253946253835254234254630253946253836253833254630253946253835254238254630253946253835254244254630253946253835254236254630253946253836253832)
-
 
 This repository contains a collection of interactive Python utility scripts implemented using Streamlit. These scripts offer various functionalities for tasks such as Docker management, Linux terminal emulation, technology learning, computer vision, automated machine learning (AutoML), text-to-speech conversion, sending messages, and more.
 
@@ -131,4 +129,3 @@ Analyze sentiment of provided text using the `transformers` library.
 ---
 
 Feel free to explore and use these interactive utility scripts for various tasks!
-![Running GIF](  https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
