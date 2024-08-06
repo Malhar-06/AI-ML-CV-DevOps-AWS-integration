@@ -27,7 +27,7 @@ This repository contains a collection of interactive Python utility scripts impl
 
 ## Usage
 
-1. Clone this repository using `git clone https://github.com/your-username/interactive-python-utility.git`.
+1. Clone this repository using `git clone https://github.com/Malhar-06/AI-ML-CV-DevOps-AWS-integration.git`.
 2. Navigate to the repository directory using `cd AI-ML-CV-DevOps-AWS-integration`.
 3. Install the required packages using `pip install -r requirements.txt`.
 4. Run the Streamlit app using `streamlit run final_app.py`.
